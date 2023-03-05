@@ -19,7 +19,7 @@ Use PEP8 standards for coding
 
 ## Aproach
 
-We have used big data technique map reduce to perform K-Means algorithm for customer segmentation.
+We have used pyspark for applying big data technique map reduce to perform K-Means algorithm for customer segmentation.
 
 Method Used: Big Data - Map-Reduce
 Platform: DataBricks
